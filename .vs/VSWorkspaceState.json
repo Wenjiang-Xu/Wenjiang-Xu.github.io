@@ -2,11 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\docs",
-    "\\test",
+    "\\docs\\_docs",
+    "\\docs\\_docs\\zh",
+    "\\_data",
     "\\_layouts",
-    "\\_posts",
-    "\\_sass"
+    "\\_posts"
   ],
-  "SelectedNode": "\\_config.yml",
+  "SelectedNode": "\\_data\\authors.yml",
   "PreviewInSolutionExplorer": false
 }

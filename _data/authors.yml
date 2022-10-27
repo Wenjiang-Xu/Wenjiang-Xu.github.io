@@ -1,0 +1,18 @@
+徐文江:
+  type      :  "person"
+  name      :  徐文江
+  url       :  https://HEA1OR.github.io
+  avatar    : # path or url of avatar image (square)
+  bio       : I am an amazing person.
+  email     :  2604317843xwj@gmail.com
+  facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/xu_wenjiang
+  twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/xu_wenjiang
+  weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
+  googleplus: # "user_id"   the last part of your profile url, e.g. https://plus.google.com/u/0/user_id
+  telegram  : # "user_name" the last part of your profile url, e.g. https://t.me/HEA2ER
+  medium    : # "user_name" the last part of your profile url, e.g. https://medium.com/user_name
+  zhihu     : # "user_name" the last part of your profile url, e.g. https://www.zhihu.com/people/xwj-84-91
+  douban    : # "user_name" the last part of your profile url, e.g. https://www.douban.com/people/user_name
+  linkedin  : # "user_name" the last part of your profile url, e.g. https://www.linkedin.com/in/user_name
+  github    : # "user_name" the last part of your profile url, e.g. https://github.com/HEA1OR
+  npm       : # "user_name" the last part of your profile url, e.g. https://www.npmjs.com/~user_name

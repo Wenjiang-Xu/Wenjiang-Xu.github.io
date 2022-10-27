@@ -1,4 +1,11 @@
 header:
+
+  - title:      资料
+    url:        /docs/en/quick-start
+
+  - title:      博客
+    url:        /docs/zh/quick-start
+
   - titles:
       # @start locale config
       en      : &EN       Archive
@@ -50,3 +57,6 @@ header:
       tr      : &TR       Hakkında
       # @end locale config
     url: /about.html
+
+  - title:      GitHub
+    url:        https://github.com/HEA1OR/HEA1OR.github.io
