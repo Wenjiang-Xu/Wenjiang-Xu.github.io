@@ -1,10 +1,5 @@
 header:
 
-  - title:      资料
-    url:        /docs/en/quick-start
-
-  - title:      博客
-    url:        /docs/zh/quick-start
 
   - titles:
       # @start locale config
