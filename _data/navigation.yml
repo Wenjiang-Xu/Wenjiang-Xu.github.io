@@ -1,9 +1,9 @@
 header:
 
   - title:      资料分享
-    url:        /docs/_docs/en/quick-start
+    url:        /docs/en/quick-start
   - title:      博客
-    url:        /docs/_docs/zh/quick-start
+    url:        /docs/zh/quick-start
   - titles:
       # @start locale config
       en      : &EN       Archive
