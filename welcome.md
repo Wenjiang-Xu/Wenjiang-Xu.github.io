@@ -5,6 +5,7 @@ modify_date: 2100-01-01
 author: 徐文江
 article_header:
   type: overlay
+  theme: dark
   background_image:
     src: /assets/4.jpg
 show_author_profile: true
