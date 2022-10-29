@@ -9,7 +9,7 @@ show_author_profile: true
 ---
 <!--more-->     
 
-# [ADD SOME ?](https://github.com/HEA1OR/HEA1OR.github.io/edit/master/_pages/publications.md)
+# [ADD SOME ?](https://github.com/HEA1OR/HEA1OR.github.io/edit/master/rsc.md)
 ## --------------------------------------------------------------------------------
 ********** [南大云盘](https://box.nju.edu.cn/) ***********
 ## --------------------------------------------------------------------------------
