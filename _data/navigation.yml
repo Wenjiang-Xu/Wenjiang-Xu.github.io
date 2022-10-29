@@ -1,9 +1,9 @@
 header:
 
   - title:      资料分享
-    url:        /docs/en/quick-start.md
+    url:        /docs/en/quick-start.html
   - title:      博客
-    url:        /docs/zh/quick-start.md
+    url:        /docs/zh/quick-start.html
   - title:      归档
     url:        /archive.html
 
