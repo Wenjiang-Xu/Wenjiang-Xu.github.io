@@ -19,7 +19,7 @@
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : https://hea1or.github.io/welcome.html
-baseurl : # does not include hostname
+baseurl : https://hea1or.github.io/welcome.html
 title   : 徐文江
 description: > # this means to ignore newlines until "Language & timezone"
   Pleads for sanity in a lunatic world
