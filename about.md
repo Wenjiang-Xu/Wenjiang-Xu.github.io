@@ -1,17 +1,22 @@
 ---
 layout: article
-title: 关于
+title: 个人信息
 key: page-about
 author: 徐文江
 show_author_profile: true
 ---
 
 ![Image](assets\2.jpg){:.circle.shadow}          
+| `Border` | `Shadow` |
+| ---- | ---- |
+| ![Image](assets\2.jpg "徐文江"){:.circle.shadow} | ![Image](assets\3.jpg "Xu WenJiang"){:.circle.shadow} |
 
-# 徐文江     
+
 ---------------      
 
-目前就读于南京大学工程管理学院自动化系         
+## 目前就读于南京大学工程管理学院自动化系         
+### 电话：19895902896      
+### 邮箱：2604317843@qq.com    
 
 ---------------     
 ## Interested in        
