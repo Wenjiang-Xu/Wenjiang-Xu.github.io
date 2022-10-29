@@ -6,10 +6,10 @@ author: 徐文江
 show_author_profile: true
 ---
 
-![Image](assets\2.jpg){:.circle.shadow}          
-| `Border` | `Shadow` |
-| ---- | ---- |
-| ![Image](assets\2.jpg "徐文江"){:.circle.shadow} | ![Image](assets\3.jpg "Xu WenJiang"){:.circle.shadow} |
+      
+
+| ![Image](assets\2.jpg "徐文江"){:.circle.shadow} | ![Image](assets\3.jpg "Xu WenJiang"){:.circle.shadow} |        
+
 
 
 ---------------      
