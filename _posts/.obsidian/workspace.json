@@ -13,38 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-4-16-obsidian使用体验.md",
+                "file": "2022-9-7-opencv学习.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f5f117fa9f77cd7c",
+            "id": "3d480149319e5e3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-4-18-深入GPU原理1.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d953f14b97c2bdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-4-18-深入GPU原理2.md",
+                "file": "2023-6-24-骑行篇1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,6 +77,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "cb547b182f1c30b7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -110,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-4-18-深入GPU原理2.md",
+                "file": "2023-6-24-骑行篇1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-4-18-深入GPU原理2.md",
+                "file": "2023-6-24-骑行篇1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-4-18-深入GPU原理2.md"
+                "file": "2023-6-24-骑行篇1.md"
               }
             }
           }
@@ -171,16 +167,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5d953f14b97c2bdb",
+  "active": "3d480149319e5e3f",
   "lastOpenFiles": [
-    "2023-4-18-深入GPU原理1.md",
-    "2023-4-16-obsidian使用体验.md",
-    "2023-3-21-判断二维码颜色改进.md",
     "2023-4-18-深入GPU原理2.md",
+    "2023-6-24-骑行篇1.md",
+    "2022-9-7-opencv学习.md",
+    "2023-4-16-obsidian使用体验.md",
+    "2023-4-18-深入GPU原理1.md",
+    "2023-2-25-SVD与EVD.md",
+    "2022-7-25-Mirai总结.md",
+    "2022-7-21-Django.md",
+    "2022-7-20-python学习.md",
+    "2023-3-21-判断二维码颜色改进.md",
     "未命名",
     "Pasted image 20230416003906.png",
     "2022-11-6-A-Star算法.md",
-    "2023-2-25-SVD与EVD.md",
     "2023-3-21-判断二维码颜色.md",
     "未命名.canvas",
     "2023-3-18-Copilot试用.md",
