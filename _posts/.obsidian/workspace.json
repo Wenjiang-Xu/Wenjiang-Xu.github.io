@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-6-30-线性代数四种空间.md",
+                "file": "2023-3-7-RL学习2.md",
                 "mode": "source",
                 "source": false
               }
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-6-30-线性代数四种空间.md",
+                "file": "2023-3-7-RL学习2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-6-30-线性代数四种空间.md",
+                "file": "2023-3-7-RL学习2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-6-30-线性代数四种空间.md"
+                "file": "2023-3-7-RL学习2.md"
               }
             }
           }
@@ -205,13 +205,24 @@
   },
   "active": "0f2d6b89fd38c2bd",
   "lastOpenFiles": [
+    "2023-3-11-RL学习3.md",
+    "2023-3-12-RL学习4.md",
+    "2023-3-7-RL学习1.md",
+    "2023-3-16-RL学习10.md",
+    "2023-3-18-Copilot试用.md",
+    "2023-3-18-GAN制作动漫头像.md",
+    "2023-3-21-检测并截取保存二维码.md",
     "2023-3-21-判断二维码颜色.md",
-    "2023-6-30-线性代数四种空间.md",
-    "2023-6-24-Transformer对时序预测真的有效吗.md",
-    "2023-6-24-深度学习的理论发展.md",
     "2023-4-18-深入GPU原理2.md",
     "2023-6-24-骑行篇1.md",
-    "2023-3-11-RL学习3.md",
+    "2023-6-24-深度学习的理论发展.md",
+    "2023-6-24-Transformer对时序预测真的有效吗.md",
+    "2023-6-30-线性代数四种空间.md",
+    "2023-3-12-RL学习5.md",
+    "2023-3-13-RL学习6.md",
+    "2023-3-15-RL学习7.md",
+    "2023-3-15-RL学习9.md",
+    "2023-3-15-RL学习8.md",
     "2022-10-26-transformer.md",
     "2022-9-7-opencv学习.md",
     "2023-4-16-obsidian使用体验.md",
@@ -220,13 +231,8 @@
     "2022-7-25-Mirai总结.md",
     "2022-7-21-Django.md",
     "2022-7-20-python学习.md",
-    "2023-3-21-判断二维码颜色改进.md",
     "未命名",
     "Pasted image 20230416003906.png",
-    "2022-11-6-A-Star算法.md",
-    "未命名.canvas",
-    "2023-3-18-Copilot试用.md",
-    "JAVA代理.jpg.md",
-    "2022-8-18-JAVA学习.md"
+    "未命名.canvas"
   ]
 }
