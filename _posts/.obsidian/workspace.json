@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1fcd0a8a95a1c064",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "大四安排.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-3-7-RL学习2.md",
+                "file": "大四安排.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-3-7-RL学习2.md",
+                "file": "大四安排.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-3-7-RL学习2.md"
+                "file": "大四安排.md"
               }
             }
           }
@@ -203,8 +215,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0f2d6b89fd38c2bd",
+  "active": "1fcd0a8a95a1c064",
   "lastOpenFiles": [
+    "大四安排.md",
+    "2023-3-7-RL学习2.md",
     "2023-3-11-RL学习3.md",
     "2023-3-12-RL学习4.md",
     "2023-3-7-RL学习1.md",
@@ -229,8 +243,6 @@
     "2023-4-18-深入GPU原理1.md",
     "2023-2-25-SVD与EVD.md",
     "2022-7-25-Mirai总结.md",
-    "2022-7-21-Django.md",
-    "2022-7-20-python学习.md",
     "未命名",
     "Pasted image 20230416003906.png",
     "未命名.canvas"
