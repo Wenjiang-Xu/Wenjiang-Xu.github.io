@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "fa633f0daadf0533",
+    "type": "split",
+    "children": [
+      {
+        "id": "dfed5c178f80ac49",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5933e3fa685f97a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "welcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "412fe18f7d05f205",
+    "type": "split",
+    "children": [
+      {
+        "id": "475da414d3ed9ccb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a7dd0fef833d8f45",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "35030f06720c99c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4d92f5bbe3f3322c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c43352a017df5bfc",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfc5eaedd496cdb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "799e9170ee570622",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "welcome.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f57c21633a51cdc9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "welcome.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fdf017e262ff6998",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e3bf12f5e3be8192",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "welcome.md"
+              }
+            }
+          },
+          {
+            "id": "8807f4cb68fea885",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0d599464b13a34d2",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "notion-like-tables:Create new loom": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "periodic-notes:Open today": false,
+      "obsidian-day-planner:Week plan": false
+    }
+  },
+  "active": "5933e3fa685f97a6",
+  "lastOpenFiles": [
+    "rsc.md",
+    "Untitled.loom",
+    "about.md",
+    "2023-10-08.md",
+    "2023-10.md",
+    "HOW_TO_RELEASE.md",
+    "2023-10-05.md",
+    "2023-10-04.md",
+    "未命名.md",
+    "未命名"
+  ]
+}
