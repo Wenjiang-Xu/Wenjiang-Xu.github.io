@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "dfed5c178f80ac49",
+        "id": "127f4c2df66b70aa",
         "type": "tabs",
         "children": [
           {
-            "id": "5933e3fa685f97a6",
+            "id": "f01fb636380f6f35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "welcome.md",
+                "file": "_posts/2023-10-9-芝加哥大学2017届毕业演讲.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "welcome.md",
+                "file": "_posts/2023-10-9-芝加哥大学2017届毕业演讲.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "welcome.md",
+                "file": "_posts/2023-10-9-芝加哥大学2017届毕业演讲.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "welcome.md"
+                "file": "_posts/2023-10-9-芝加哥大学2017届毕业演讲.md"
               }
             }
           },
@@ -165,21 +165,29 @@
       "notion-like-tables:Create new loom": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "periodic-notes:Open today": false,
-      "obsidian-day-planner:Week plan": false
+      "obsidian-day-planner:Week plan": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "5933e3fa685f97a6",
+  "active": "f01fb636380f6f35",
   "lastOpenFiles": [
+    "_posts/2023-10-5-What Are Large Language Model (LLM) Agents and Autonomous Agents.md",
+    "_posts/2023-10-9-芝加哥大学2017届毕业演讲.md",
+    "_posts/2023-9-24-语言和知识理论.md",
+    "_posts/2023-10-2-简易RNN理解.md",
+    "未命名.md",
+    "2023-10-03.md",
     "rsc.md",
+    "Excalidraw/Drawing 2023-10-08 11.01.17.excalidraw.md",
+    "Excalidraw",
+    "2023-10-08.md",
+    "welcome.md",
     "Untitled.loom",
     "about.md",
-    "2023-10-08.md",
     "2023-10.md",
     "HOW_TO_RELEASE.md",
     "2023-10-05.md",
     "2023-10-04.md",
-    "未命名.md",
     "未命名"
   ]
 }
