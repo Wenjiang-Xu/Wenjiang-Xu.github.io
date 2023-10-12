@@ -13,10 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-12-自动化专业保研贴文和资料.md",
+                "file": "rsc.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
+            }
+          },
+          {
+            "id": "ea25f5932e5ef712",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "dc5cd9dbfd5cbb11",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "09776fb8cdcebffc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-12-自动化专业保研贴文和资料.md",
+                "file": "rsc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-12-自动化专业保研贴文和资料.md",
+                "file": "rsc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-12-自动化专业保研贴文和资料.md"
+                "file": "rsc.md"
               }
             }
           },
@@ -171,20 +195,23 @@
   },
   "active": "f01fb636380f6f35",
   "lastOpenFiles": [
-    "_posts/2023-10-9-芝加哥大学2017届毕业演讲.md",
     "_posts/2023-10-12-自动化专业保研贴文和资料.md",
+    "rsc.md",
+    "~$opencv在ROS下使用.pptx",
+    "about.md",
+    "简历 - 预推免.pdf",
+    "opencv在ROS下使用.pptx",
+    "_posts/2023-10-9-芝加哥大学2017届毕业演讲.md",
     "未命名.md",
     "_posts/2023-10-5-What Are Large Language Model (LLM) Agents and Autonomous Agents.md",
     "_posts/2023-9-24-语言和知识理论.md",
     "_posts/2023-10-2-简易RNN理解.md",
     "2023-10-03.md",
-    "rsc.md",
     "Excalidraw/Drawing 2023-10-08 11.01.17.excalidraw.md",
     "Excalidraw",
     "2023-10-08.md",
     "welcome.md",
     "Untitled.loom",
-    "about.md",
     "2023-10.md",
     "HOW_TO_RELEASE.md",
     "2023-10-05.md",
