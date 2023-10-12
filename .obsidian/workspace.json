@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rsc.md",
+                "file": "_posts/2023-10-12-自动化专业保研贴文和资料.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rsc.md",
+                "file": "_posts/2023-10-12-自动化专业保研贴文和资料.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rsc.md",
+                "file": "_posts/2023-10-12-自动化专业保研贴文和资料.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rsc.md"
+                "file": "_posts/2023-10-12-自动化专业保研贴文和资料.md"
               }
             }
           },
@@ -195,8 +195,8 @@
   },
   "active": "f01fb636380f6f35",
   "lastOpenFiles": [
-    "_posts/2023-10-12-自动化专业保研贴文和资料.md",
     "rsc.md",
+    "_posts/2023-10-12-自动化专业保研贴文和资料.md",
     "~$opencv在ROS下使用.pptx",
     "about.md",
     "简历 - 预推免.pdf",
