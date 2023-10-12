@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-9-芝加哥大学2017届毕业演讲.md",
+                "file": "_posts/2023-10-12-知乎自动化专业保研贴推荐.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-9-芝加哥大学2017届毕业演讲.md",
+                "file": "_posts/2023-10-12-知乎自动化专业保研贴推荐.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-9-芝加哥大学2017届毕业演讲.md",
+                "file": "_posts/2023-10-12-知乎自动化专业保研贴推荐.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-9-芝加哥大学2017届毕业演讲.md"
+                "file": "_posts/2023-10-12-知乎自动化专业保研贴推荐.md"
               }
             }
           },
@@ -171,11 +171,12 @@
   },
   "active": "f01fb636380f6f35",
   "lastOpenFiles": [
-    "_posts/2023-10-5-What Are Large Language Model (LLM) Agents and Autonomous Agents.md",
     "_posts/2023-10-9-芝加哥大学2017届毕业演讲.md",
+    "_posts/2023-10-12-知乎自动化专业保研贴推荐.md",
+    "未命名.md",
+    "_posts/2023-10-5-What Are Large Language Model (LLM) Agents and Autonomous Agents.md",
     "_posts/2023-9-24-语言和知识理论.md",
     "_posts/2023-10-2-简易RNN理解.md",
-    "未命名.md",
     "2023-10-03.md",
     "rsc.md",
     "Excalidraw/Drawing 2023-10-08 11.01.17.excalidraw.md",
