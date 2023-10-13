@@ -16,12 +16,14 @@ show_author_profile: true
 ## -------------------------------------------------------
 
 ## ROS         
+
 * ROS编程基础课程2020更新资料和习题解答说明（ETH苏黎世联邦理工学院）适用indigo、kinetic和melodic[链接](https://blog.csdn.net/zhangrelay/article/details/79463689)                    
 
 * 机器人编程实践----ROS基础（ETH Zürich课程整理）[链接](https://blog.csdn.net/zhangrelay/article/details/79230844)               
 * ROS系列书籍--机械工业出版社[链接](https://blog.csdn.net/qq_42450767/article/details/124156731)            
 
-* 自己动手做一台SLAM导航机器人[链接](https://zhuanlan.zhihu.com/p/499864960)   
+* 自己动手做一台SLAM导航机器人[链接](https://zhuanlan.zhihu.com/p/499864960)    
+
 * Autolabor公司的ROS教程（很推荐）[链接](http://www.autolabor.com.cn/book/ROSTutorials/)               
 
 ## -------------------------------------------------------
@@ -37,8 +39,12 @@ show_author_profile: true
 * [嵌入式知识图谱WiKi](https://gitee.com/langcai1943/embedded-knowledge-wiki "嵌入式知识图谱WiKi")         
 
 ## ------------------------------------------------------- 
+## 具身智能               
 
 
+- 有关**具身智能的前沿进展、文章**等信息的仓库，这个仓库主题是**以自我为中心**的各种AI智能，其中包括VLN等具身智能主题[repo](https://github.com/EgoAlpha/Awesome-Egocentric#embodied-agent-learning)         
+
+## ------------------------------------------------------- 
 ## 计算机设计大赛            
 
 - [基于opencv 识别、定位二维码 （c++版）](https://www.cnblogs.com/yuanchenhui/p/opencv_qr.html)              
@@ -199,6 +205,9 @@ show_author_profile: true
 
 - 面向开发者的LLM入门教程，可以机遇ChatGPT等大模型搭建自己的大模型应用[链接](https://datawhalechina.github.io/prompt-engineering-for-developers/#/)      
 - LangChain教程[链接](https://python.langchain.com/docs/get_started/introduction)              
+
+- 有关LLM的in-context learning和prompt工程教学仓库[repo](https://github.com/EgoAlpha/prompt-in-context-learning#chain-of-thought)             
+
 
 ## ------------------------------------------------------- 
 
