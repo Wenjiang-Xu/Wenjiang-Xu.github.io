@@ -65,7 +65,7 @@ show_author_profile: true
 
 - [UBUNTU16.04_ROS_KINETIC下如何使用OPENCV2.4进行编译](https://www.freesion.com/article/4922873074/)           
 
-- 智慧物流赛后应老师要求简单做的一个PPT[opencv在ROS环境下使用一些注意事项](./opencv在ROS下使用.PPTX)          
+- 智慧物流赛后应老师要求简单做的一个PPT[opencv在ROS环境下使用一些注意事项](./opencv在ROS下使用.PPT)          
 
 ## -------------------------------------------------------
 
