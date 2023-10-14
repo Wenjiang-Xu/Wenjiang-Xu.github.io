@@ -10,8 +10,12 @@ show_author_profile: true
 <!--more-->     
 
 
-# 机器人
+# 机器人              
+
+## -------------------------------------------------------
+
 **知乎问题：如何系统地学习机器人**[链接](https://www.zhihu.com/question/22390802)              
+
 
 ## -------------------------------------------------------
 
@@ -53,7 +57,7 @@ show_author_profile: true
 
 - [学习ROS（一）——体验ROS，第一个简单的示例](https://www.liuyixiang.com/post/28680.html "学习ROS（一）——体验ROS，第一个简单的示例")         
 
-- 古月居，很多要付费，挑免费资源看看[链接](https://www.guyuehome.com/)       
+- 古月居[链接](https://www.guyuehome.com/)       
 
 - 简单记录一次MediaPipe手势识别过程（附详细代码及问题解决办法）[链接](https://blog.csdn.net/DALEONE/article/details/125335562)              
 
@@ -81,6 +85,7 @@ show_author_profile: true
 [计算机资料](https://box.nju.edu.cn/d/eb6d53a3339540e7a335/)         
 ## -------------------------------------------------------
 ## 开发           
+
 - 作为软件工程专业或者计算机科学与技术专业毕业的学生，让你大学四年重头再来，你会如何安排你的大学四年？[知乎原帖](https://www.zhihu.com/question/426053091/answer/2027046024)          
 
 - 编程导航知识星球（不过鱼皮现在辞职卖课了，网站上还有多少免费资源就不知道了）[官网](https://yupi.icu/)           
@@ -217,6 +222,83 @@ show_author_profile: true
 * [魔猴网（图片文字立体化）](http://www.mohou.com/)
 * [Enjoy3D(stl)](https://www.enjoying3d.com/)
 * [Thingiverse(English)](https://www.thingiverse.com/)
+
+## ------------------------------------------------------- 
+
+# 论文            
+
+- [思谋学术](https://ac.scmor.com/)       
+
+- [Papers With Code](https://paperswithcode.com/)                   
+
+- [Library Genesis](http://libgen.rs/)                   
+
+- [Connected Papers](https://www.connectedpapers.com/)                    
+
+- [WOS](https://www.webofscience.com/)                     
+
+- [IEEE](https://ieeexplore.ieee.org/Xplore/home.jsp)                  
+
+- [AMiner - AI赋能科技情报挖掘-学术搜索-论文检索-论文专利-文献追踪-学者画像](https://www.aminer.cn/)          
+
+- [ManimGL 文档](https://docs.manim.org.cn/)                  
+
+- [BriefGPT - AI 论文速递](https://briefgpt.xyz/)                  
+
+- [arXiv](https://arxiv.org/)                      
+
+- [Research Rabbit](https://www.researchrabbitapp.com/home)                  
+
+- [Zotero使用心得（笔记） - 知乎](https://zhuanlan.zhihu.com/p/458084656)                
+
+- [Litmaps](https://app.litmaps.com/)               
+
+## ------------------------------------------------------- 
+
+# LLM            
+
+- [ChatGPT](https://chat.openai.com/chat)                
+
+- [文心一言](https://yiyan.baidu.com/)             
+
+- 汇总所有 chatgpt 镜像站，免费、付费、多模态、国内外大模型汇总等等[click33/chatgpt---mirror-station-summary](https://github.com/click33/chatgpt---mirror-station-summary)               
+
+- [大学思政教材问答GPT](https://chatmarx.zihaoai.cn/)                
+
+- [AI工具集导航](https://ai-bot.cn/)            
+
+- [AI工具导航](https://www.amz123.com/ai)           
+
+- [AI导航网](https://www.ainav.cn/)            
+
+## ------------------------------------------------------- 
+
+# code网站          
+
+[NJU-GitLab](https://git.nju.edu.cn/)              
+
+[HEA1OR (HEA1OR) - Gitee.com](https://gitee.com/HEA1OR)              
+
+[力扣](https://leetcode.cn/)                
+
+[Kaggle](https://www.kaggle.com/)            
+
+[Stack Overflow](https://stackoverflow.com/)               
+
+[Overleaf](https://www.overleaf.com/)                
+
+[题库 - AcWing](https://www.acwing.com/problem/)             
+
+[Hugging Face ](https://huggingface.co/)                 
+
+[labml.ai](https://labml.ai/)                  
+
+[OpenJudge - 百练 - 首页](http://bailian.openjudge.cn/)              
+
+## ------------------------------------------------------- 
+
+
+
 
 
 
