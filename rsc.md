@@ -144,7 +144,7 @@ show_author_profile: true
 - Hello算法，一本通俗易懂的数据结构与算法入门书[链接](https://www.hello-algo.com/)               
 
 
-- VALSE，一个非常著名的国内举办的AI会议，同样非常推荐关注他们的B站号，上面有很多演讲录屏[链接](http://valser.org/reg/2023/)                      
+- VALSE[链接](http://valser.org/reg/2023/)                      
 
 ## -------------------------------------------------------
 
