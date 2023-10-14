@@ -154,6 +154,8 @@ show_author_profile: true
 
 ## 强化学习         
 
+- 知乎贴-强化学习路线(非常全面)[链接](https://zhuanlan.zhihu.com/p/104224859)                
+
 - [动手学强化学习](https://hrl.boyuai.com/)                
 
 - RLChina强化学习社区，其中有丰富的论文研讨，课程学习，竞赛等等[链接](http://rlchina.org/)             
