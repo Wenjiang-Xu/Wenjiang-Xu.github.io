@@ -111,6 +111,9 @@ show_author_profile: true
 
 - 一个todo list项目[Rethink Flask – A Simple Todo List Powered by Flask and RethinkDB](https://realpython.com/rethink-flask-a-simple-todo-list-powered-by-flask-and-rethinkdb/)             
 
+- [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)                
+
+
 ## -------------------------------------------------------
 ## JAVA          
 
@@ -142,7 +145,6 @@ show_author_profile: true
 - 贵系科协技能引导文档，类似于上个网站[网站](https://docs.net9.org/)         
 
 - Hello算法，一本通俗易懂的数据结构与算法入门书[链接](https://www.hello-algo.com/)               
-
 
 - VALSE[链接](http://valser.org/reg/2023/)                      
 
@@ -215,7 +217,7 @@ show_author_profile: true
 
 - 有关LLM的in-context learning和prompt工程教学仓库[repo](https://github.com/EgoAlpha/prompt-in-context-learning#chain-of-thought)             
 
-
+- [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)               
 ## ------------------------------------------------------- 
 
 
