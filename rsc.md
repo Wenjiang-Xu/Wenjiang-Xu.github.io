@@ -148,6 +148,8 @@ show_author_profile: true
 
 - VALSE[链接](http://valser.org/reg/2023/)                      
 
+- [LeetCode CookBook](https://books.halfrost.com/leetcode/)               
+
 ## -------------------------------------------------------
 
 # 机器学习            
