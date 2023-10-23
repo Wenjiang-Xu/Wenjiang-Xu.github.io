@@ -220,6 +220,8 @@ show_author_profile: true
 - 有关LLM的in-context learning和prompt工程教学仓库[repo](https://github.com/EgoAlpha/prompt-in-context-learning#chain-of-thought)             
 
 - [Intro to Deep Learning with PyTorch](https://www.udacity.com/course/deep-learning-pytorch--ud188)               
+
+- [A paper list of pre-trained language models (PLMs)](https://github.com/wxl1999/PLMPapers)           
 ## ------------------------------------------------------- 
 
 
