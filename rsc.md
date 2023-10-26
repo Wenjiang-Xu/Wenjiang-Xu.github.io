@@ -113,7 +113,13 @@ show_author_profile: true
 
 - [Introduction to Python Programming](https://www.udacity.com/course/introduction-to-python--ud1110)                
 
+- [Python Cookbook](https://python3-cookbook.readthedocs.io/zh_CN/latest/)               
 
+- 一些关于编程方法的VIDEOS[It Will Never Work in Theory](https://neverworkintheory.org/)             
+
+- [Open Source Applications](https://aosabook.org/en/)           
+
+- a tool-based introduction with Python[Software Design by Example](https://third-bit.com/sdxpy/)       
 ## -------------------------------------------------------
 ## JAVA          
 

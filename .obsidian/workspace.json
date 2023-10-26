@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-10-21-南大自动化怎么样.md",
+                "file": "rsc.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-10-21-南大自动化怎么样.md",
+                "file": "rsc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-10-21-南大自动化怎么样.md",
+                "file": "rsc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-10-21-南大自动化怎么样.md"
+                "file": "rsc.md"
               }
             }
           },
@@ -171,10 +171,11 @@
   },
   "active": "3da681bd80192116",
   "lastOpenFiles": [
+    "README-zh.md",
+    "_posts/2023-10-21-南大自动化怎么样.md",
     "_posts/2023-10-12-自动化专业保研贴文和资料.md",
     "~Q8{S$O5L(VM[EF57IFNPKT.png",
     "Pasted image 20231022125319.png",
-    "_posts/2023-10-21-南大自动化怎么样.md",
     "HOW_TO_RELEASE.md",
     "_posts/Pasted image 20230416003906.png",
     "rsc.md",
