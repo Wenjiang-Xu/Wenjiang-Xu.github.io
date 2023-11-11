@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rsc.md",
+                "file": "_posts/2023-11-11-读《写作是一门手艺》简记.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "rsc.md",
+                "file": "_posts/2023-11-11-读《写作是一门手艺》简记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "rsc.md",
+                "file": "_posts/2023-11-11-读《写作是一门手艺》简记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "rsc.md"
+                "file": "_posts/2023-11-11-读《写作是一门手艺》简记.md"
               }
             }
           },
@@ -171,20 +171,23 @@
   },
   "active": "3da681bd80192116",
   "lastOpenFiles": [
-    "README-zh.md",
     "_posts/2023-10-21-南大自动化怎么样.md",
+    "_posts/2023-11-11-读《写作是一门手艺》简记.md",
+    "_posts/大四安排.md",
+    "未命名.md",
+    "_posts/2023-9-26-大语言模型(LLM)是否终结了自然语言处理(NLP)领域.md",
+    "rsc.md",
+    "README-zh.md",
     "_posts/2023-10-12-自动化专业保研贴文和资料.md",
     "~Q8{S$O5L(VM[EF57IFNPKT.png",
     "Pasted image 20231022125319.png",
     "HOW_TO_RELEASE.md",
     "_posts/Pasted image 20230416003906.png",
-    "rsc.md",
     "~$opencv在ROS下使用.pptx",
     "about.md",
     "简历 - 预推免.pdf",
     "opencv在ROS下使用.pptx",
     "_posts/2023-10-9-芝加哥大学2017届毕业演讲.md",
-    "未命名.md",
     "_posts/2023-10-5-What Are Large Language Model (LLM) Agents and Autonomous Agents.md",
     "_posts/2023-9-24-语言和知识理论.md",
     "_posts/2023-10-2-简易RNN理解.md",
