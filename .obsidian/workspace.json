@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2023-11-11-读《写作是一门手艺》简记.md",
+                "file": "_posts/大四安排.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2023-11-11-读《写作是一门手艺》简记.md",
+                "file": "_posts/大四安排.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2023-11-11-读《写作是一门手艺》简记.md",
+                "file": "_posts/大四安排.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2023-11-11-读《写作是一门手艺》简记.md"
+                "file": "_posts/大四安排.md"
               }
             }
           },
@@ -171,9 +171,11 @@
   },
   "active": "3da681bd80192116",
   "lastOpenFiles": [
-    "_posts/2023-10-21-南大自动化怎么样.md",
-    "_posts/2023-11-11-读《写作是一门手艺》简记.md",
+    "_posts/寒假安排.md",
     "_posts/大四安排.md",
+    "about.md",
+    "_posts/2023-11-11-读《写作是一门手艺》简记.md",
+    "_posts/2023-10-21-南大自动化怎么样.md",
     "未命名.md",
     "_posts/2023-9-26-大语言模型(LLM)是否终结了自然语言处理(NLP)领域.md",
     "rsc.md",
@@ -184,7 +186,6 @@
     "HOW_TO_RELEASE.md",
     "_posts/Pasted image 20230416003906.png",
     "~$opencv在ROS下使用.pptx",
-    "about.md",
     "简历 - 预推免.pdf",
     "opencv在ROS下使用.pptx",
     "_posts/2023-10-9-芝加哥大学2017届毕业演讲.md",
