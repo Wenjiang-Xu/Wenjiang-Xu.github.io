@@ -18,11 +18,8 @@ introduction部分
 开题报告
 
 ### <span style="background:#fff88f">周五3/8</span>
-上午
-构建pipeline进行实验
 
-下午
-开题报告
+滑雪
 
 ### <span style="background:#fff88f">周六3/9</span>
 上午
@@ -35,7 +32,7 @@ introduction部分
 
 ### <span style="background:#fff88f">周日3/10</span>
 
-滑雪
+
 
 ### <span style="background:#fff88f">周一3/11</span>
 
